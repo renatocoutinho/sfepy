@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """Example:
 $ ./script/make_spkg.py ../sfepy-2009.3/ /home/share/software/packages/femhub-0.9.3 0 0
  """

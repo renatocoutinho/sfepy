@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 # 20.12.2005, c
 import sys
 """

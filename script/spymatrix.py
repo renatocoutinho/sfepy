@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # 23.11.2005, c 
 from pylab import *
 import scipy as nm

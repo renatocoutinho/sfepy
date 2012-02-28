@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 First solve the stationary electric conduction problem. Then use its
 results to solve the evolutionary heat conduction problem.

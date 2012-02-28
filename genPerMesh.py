@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 import numpy as nm
 
 from sfepy.base.base import Output

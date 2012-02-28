@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # 05.10.2005, c
 """
 Given a mesh file, this script extracts its surface and prints it to stdout in

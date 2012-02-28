@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 Convert mixedCase identifiers to under_scores.
 """

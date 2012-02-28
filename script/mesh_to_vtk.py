@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 # 04.10.2005
 # last revision: 03.09.2007
 import sys

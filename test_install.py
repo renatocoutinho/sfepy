@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 Simple script for testing various SfePy functionality, examples not
 covered by tests, and running the tests.

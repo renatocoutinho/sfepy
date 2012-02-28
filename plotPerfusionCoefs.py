@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # 13.07.2007, c
 import os
 import os.path as op

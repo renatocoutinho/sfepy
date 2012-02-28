@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 # 29.06.2004, c
 import sys
 import fileinput

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # 06.04.2005, c 
 # 16.06.2005
 from optparse import OptionParser
